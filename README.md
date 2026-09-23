@@ -31,4 +31,4 @@ mvn test
 
 The companion documentation set is **not** in this repository. It is uploaded
 separately as a file group, so that repo ingestion and document ingestion can be
-tested independently. See the manifest in the local `doc_ingestion_test/` folder.
+tested independently. See the manifest in the local `synthetic-corpus/` folder.
